@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielbarrios29.github.io/green-cardamom/sitemap.xml
